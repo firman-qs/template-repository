@@ -1,4 +1,15 @@
+.DS_Store
+.idea
+*.log
 *.aux
 *.fdb_latexmk
-*.log
 *.fls
+*.log
+*.nav
+*.out
+*.snm
+*.synctex.gz
+*.toc
+*.vrb
+.auctex-auto
+tmp/
